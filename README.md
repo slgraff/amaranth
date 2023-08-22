@@ -1,4 +1,4 @@
-AHHHHHHHH
+AHHHHHHHH CHOOO!
 
 # Amaranth HDL (previously nMigen)
 
