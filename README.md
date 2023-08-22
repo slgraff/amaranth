@@ -48,3 +48,6 @@ Amaranth has a dedicated IRC channel, [#amaranth-lang at libera.chat](https://we
 ## License
 
 Amaranth is released under the very permissive [two-clause BSD license](LICENSE.txt). Under the terms of this license, you are authorized to use Amaranth for closed-source proprietary designs.
+
+
+Gonna make a change. Gonna do it right.
